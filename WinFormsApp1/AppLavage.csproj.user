@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="accueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ajoutclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ajoutemploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ajouterservice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="app.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifierclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifieremploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifierservice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifiertransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detailstransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="authentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ajouttransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
